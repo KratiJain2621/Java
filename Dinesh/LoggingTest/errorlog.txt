@@ -1,0 +1,168 @@
+2017-09-30 21:42:25,945[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2017-09-30 21:42:25,953[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2017-09-30 21:42:25,954[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2017-09-30 21:42:59,048[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2017-09-30 21:42:59,052[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2017-09-30 21:42:59,052[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2017-09-30 21:51:16,615[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2017-09-30 21:51:16,641[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2017-09-30 21:51:16,641[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2017-10-01 06:31:31,575[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2017-10-01 06:31:31,656[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2017-10-01 06:31:31,656[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2017-10-01 06:32:36,874[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2017-10-01 06:32:36,877[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2017-10-01 06:32:36,877[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2017-10-03 14:33:32,590[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2017-10-03 14:33:32,625[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2017-10-03 14:33:32,626[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2017-10-03 14:35:13,756[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2017-10-03 14:35:13,759[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2017-10-03 14:35:13,759[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2017-10-03 14:36:38,112[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2017-10-03 14:36:38,114[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2017-10-03 14:36:38,115[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 10:56:55,301[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 10:56:55,301[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 10:57:38,810[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 10:57:38,811[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 10:57:38,811[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 10:58:37,765[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 10:58:37,767[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 10:58:37,767[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 10:59:26,995[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 10:59:26,996[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 10:59:26,997[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 11:00:42,439[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 11:00:42,454[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 11:00:42,454[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 16:37:59,184[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 16:37:59,184[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 16:37:59,184[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 16:42:23,193[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 16:42:23,193[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 16:42:23,193[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 16:49:56,638[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 16:49:56,638[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 16:49:56,638[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 16:50:39,469[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 16:50:39,469[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 16:50:39,469[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 16:57:42,397[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2018-10-19 16:57:42,397[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2018-10-19 16:57:42,397[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 16:57:42,397[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 16:57:42,397[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 16:58:31,412[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2018-10-19 16:58:31,413[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2018-10-19 16:58:31,413[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 16:58:31,416[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 16:58:31,416[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 17:05:05,422[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2018-10-19 17:05:05,422[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2018-10-19 17:05:05,422[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 17:05:05,422[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 17:05:05,422[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 17:26:44,295[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2018-10-19 17:26:44,295[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2018-10-19 17:26:44,295[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 17:26:44,295[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 17:26:44,295[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 17:26:52,371[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2018-10-19 17:26:52,372[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2018-10-19 17:26:52,372[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 17:26:52,375[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 17:26:52,375[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 17:28:03,279[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2018-10-19 17:28:03,279[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2018-10-19 17:28:03,279[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 17:28:03,279[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 17:28:03,279[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 17:30:12,435[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2018-10-19 17:30:12,435[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2018-10-19 17:30:12,435[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 17:30:12,435[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 17:30:12,435[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 17:35:59,546[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2018-10-19 17:35:59,546[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2018-10-19 17:35:59,546[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 17:35:59,562[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 17:35:59,562[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2018-10-19 17:37:35,705[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2018-10-19 17:37:35,705[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2018-10-19 17:37:35,705[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2018-10-19 17:37:35,705[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2018-10-19 17:37:35,705[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2019-01-14 09:05:09,639[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2019-01-14 09:05:09,639[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2019-01-14 09:05:09,640[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2019-01-14 09:05:09,652[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2019-01-14 09:05:09,652[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2019-01-14 09:56:32,620[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2019-01-14 09:56:32,620[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2019-01-14 09:56:32,620[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2019-01-14 09:56:32,625[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2019-01-14 09:56:32,626[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2019-01-14 09:56:49,116[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2019-01-14 09:56:49,117[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2019-01-14 09:56:49,118[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2019-01-14 09:56:49,126[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2019-01-14 09:56:49,127[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2019-01-14 10:01:46,520[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2019-01-14 10:01:46,520[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2019-01-14 10:01:46,520[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2019-01-14 10:01:46,526[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2019-01-14 10:01:46,526[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2019-01-14 10:02:27,338[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2019-01-14 10:02:27,338[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2019-01-14 10:02:27,339[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2019-01-14 10:02:27,350[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2019-01-14 10:02:27,351[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2019-07-26 09:42:51,427[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2019-07-26 09:42:51,452[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2019-07-26 09:42:51,469[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2019-07-26 09:42:51,510[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2019-07-26 09:42:51,510[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2019-11-14 18:48:23,502[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2019-11-14 18:48:23,534[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2019-11-14 18:48:23,534[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2019-11-14 18:48:23,549[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2019-11-14 18:48:23,549[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2019-11-14 18:53:01,187[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2019-11-14 18:53:01,203[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2019-11-14 18:53:01,203[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2019-11-14 18:53:01,203[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2019-11-14 18:53:01,203[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2019-11-14 18:54:55,605[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2019-11-14 18:54:55,605[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2019-11-14 18:54:55,605[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2019-11-14 18:54:55,605[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2019-11-14 18:54:55,605[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2019-11-14 18:55:34,468[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2019-11-14 18:55:34,531[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2019-11-14 18:55:34,593[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2019-11-14 18:55:34,833[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2019-11-14 18:55:34,864[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2019-11-14 20:10:49,955[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2019-11-14 20:10:51,421[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2019-11-14 20:10:51,470[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2019-11-14 20:10:51,638[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2019-11-14 20:10:51,669[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2019-11-14 20:12:21,089[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2019-11-14 20:12:21,145[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+ 2019-11-14 20:12:21,196[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2019-11-14 20:12:21,397[yyyy-mm-dd HH-MM-SS] ERROR ERROR
+ 2019-11-14 20:12:21,479[yyyy-mm-dd HH-MM-SS] FATAL FATAL
+ 2020-07-14 16:27:04,244[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2020-07-14 16:27:04,327[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the software/system
+ 2020-07-14 16:27:04,428[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2020-07-14 16:28:17,474[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2020-07-14 16:28:17,524[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the software/system
+ 2020-07-14 16:28:17,608[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2020-07-14 16:29:42,564[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2020-07-14 16:29:42,614[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the software/system
+ 2020-07-14 16:29:42,699[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 2020-07-14 17:22:55,338[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+ 2020-07-14 17:22:55,389[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the software/system
+ 2020-07-14 17:22:55,500[yyyy-mm-dd HH-MM-SS] ERROR error occured
+ 
